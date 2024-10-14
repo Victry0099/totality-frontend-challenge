@@ -1,8 +1,27 @@
-# React + Vite
+# Property Rental
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application for property rental management built with React, Redux, and Firebase.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User authentication with Firebase
+- Property listing and management
+- Responsive design using Tailwind CSS
+- State management with Redux Toolkit
+- Easy routing with React Router
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Redux Toolkit**: For state management.
+- **Firebase**: For backend services including authentication and database.
+- **Tailwind CSS**: For styling and layout.
+- **Vite**: A fast development server and build tool.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/property-rental.git
+   cd property-rental
