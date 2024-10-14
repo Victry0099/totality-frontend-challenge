@@ -23,5 +23,5 @@ A modern web application for property rental management built with React, Redux,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/property-rental.git
+   git clone https://github.com/Victry0099/totality-frontend-challenge.git
    cd property-rental
